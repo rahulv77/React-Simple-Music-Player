@@ -1,7 +1,7 @@
 # React-Simple-Music-Player
- A music player made with React
+A music player made with React, HTML and CSS
 
- #Install Dependencies
+#Install Dependencies
  ```
 npm install
 ```
